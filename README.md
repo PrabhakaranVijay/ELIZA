@@ -58,7 +58,7 @@ ELIZA is not a chatbot wrapper — it is an extensible **agentic platform** that
 
 ## Features
 
-### Available Today (Phase 1)
+### Currently Working On (Phase 1)
 - 🎙️ Voice input via local Whisper transcription
 - 💬 Text-based conversational core agent
 - 🧠 Short-term conversational memory
